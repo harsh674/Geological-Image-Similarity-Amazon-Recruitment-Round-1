@@ -2,7 +2,7 @@
 
 My Results:-
 Deep Learning Approach:- 70.77 % Accuracy ||
-Machine Learning Approach :- 69.46% Accuracy
+Machine Learning Approach :- 69.51% Accuracy
 
 Option 2: Geological Image Similarity BACKGROUND A geology research company wants to create a tool for identifying interesting patterns in their imagery data. This tool will possess a search capability whereby an analyst provides an image of interest and is presented with other images which are similar to it. 
 
